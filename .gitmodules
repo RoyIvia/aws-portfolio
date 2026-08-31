@@ -1,0 +1,3 @@
+[submodule "aws-customer-churn-mlops"]
+	path = aws-customer-churn-mlops
+	url = https://github.com/RoyIvia/aws-customer-churn-mlops.git
