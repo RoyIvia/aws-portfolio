@@ -2,13 +2,7 @@
 
 > **Designing secure, scalable, resilient, and intelligent cloud solutions on AWS.**
 
-This repository is a portfolio of AWS solutions designed from a **Cloud Solutions Architect perspective**, demonstrating how business and technical requirements can be translated into production-oriented cloud architectures.
-
-My primary areas of focus are:
-
-* **Cloud Architecture**
-* **Cloud Security**
-* **Generative AI & Agentic AI**
+This repository is a portfolio of AWS solutions designed from a **Cloud Solutions Architect perspective**, demonstrating how business and technical requirements translate into production-ready cloud architectures.
 
 The projects in this portfolio  focus on the architectural decisions behind a solution: requirements analysis, system design, security, networking, scalability, resilience, governance, cost optimisation, implementation, and operational considerations.
 
