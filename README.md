@@ -115,7 +115,7 @@ Key areas include:
 * AWS WAF and Shield
 * Security monitoring and incident visibility
 
----
+
 
 ## Generative AI & Agentic AI
 
