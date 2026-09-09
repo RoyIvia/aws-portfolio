@@ -46,7 +46,7 @@ Certification knowledge is applied through the projects in this repository, with
 
 # Architecture Focus
 
-**Cloud Architecture**
+## Cloud Architecture
 
 My core focus is designing AWS environments capable of supporting production workloads and organizational requirements.
 
