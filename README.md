@@ -77,7 +77,7 @@ Designs are evaluated against the **AWS Well-Architected Framework**, using its 
 | **Cost Optimization**      | Delivering business value while controlling unnecessary spend |
 | **Sustainability**         | Minimising the environmental impact of cloud workloads        |
 
----
+
 
 ## Cloud Security
 
