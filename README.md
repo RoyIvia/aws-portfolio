@@ -206,11 +206,6 @@ Documentation
 ```
 
 
-
-
-
----
-
 # Repository Structure
 
 This repository acts as the top-level portfolio. Individual projects remain independent Git repositories and are referenced through Git submodules.
