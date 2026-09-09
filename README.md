@@ -12,7 +12,6 @@ My primary areas of focus are:
 
 The projects in this portfolio  focus on the architectural decisions behind a solution: requirements analysis, system design, security, networking, scalability, resilience, governance, cost optimisation, implementation, and operational considerations.
 
----
 
 ## About Me
 
