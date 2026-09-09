@@ -236,7 +236,6 @@ For an existing clone:
 git submodule update --init --recursive
 ```
 
----
 
 ## Contact
 
@@ -244,13 +243,14 @@ git submodule update --init --recursive
 Cloud Solutions Architect
 
 [royivia104@gmail.com](mailto:royivia104@gmail.com)
+
 Nairobi, Kenya
 
 **Focus:** Cloud Architecture · Cloud Security · Generative AI · Agentic AI
 
 For professional opportunities, architecture discussions, partnerships, and collaboration, please connect with me through the contact channels on my GitHub profile.
 
----
+
 
 > **Note:** Projects in this repository are portfolio implementations and architecture case studies. Production architectures should always be adapted to the organization's workload requirements, security policies, compliance obligations, scale, risk profile, and cost constraints.
 
