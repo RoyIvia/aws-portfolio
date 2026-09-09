@@ -18,9 +18,11 @@ The projects in this portfolio  focus on the architectural decisions behind a so
 
 I am **Roy Ivia**, a Cloud Solutions Architect with experience designing AWS environments, supporting cloud migrations, conducting architecture reviews, and translating business requirements into cloud solutions.
 
-```text
 My current work and technical development are centered around 
 three complementary areas:
+
+```text
+
 
                    Cloud Architecture
                           │
