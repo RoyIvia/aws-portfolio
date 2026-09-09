@@ -52,7 +52,7 @@ My core focus is designing AWS environments capable of supporting production wor
 
 Areas covered across this portfolio include:
 
-* **System Design**
+* System Design
 * Multi-tier and serverless architectures
 * Amazon VPC and hybrid connectivity
 * Multi-account architecture
