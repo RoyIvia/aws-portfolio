@@ -53,7 +53,7 @@ Current AWS certifications include:
 
 Certification knowledge is applied through the projects in this repository, with emphasis on architecture and implementation.
 
----
+
 
 # Architecture Focus
 
