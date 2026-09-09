@@ -4,9 +4,6 @@
 
 This repository is a portfolio of AWS solutions designed from a **Cloud Solutions Architect perspective**, demonstrating how business and technical requirements translate into production-ready cloud architectures.
 
-The projects in this portfolio  focus on the architectural decisions behind a solution: requirements analysis, system design, security, networking, scalability, resilience, governance, cost optimisation, implementation, and operational considerations.
-
-
 ## About Me
 
 I am **Roy Ivia**, a Cloud Solutions Architect with experience designing AWS environments, supporting cloud migrations, conducting architecture reviews, and translating business requirements into cloud solutions.
