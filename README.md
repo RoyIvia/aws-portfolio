@@ -115,7 +115,6 @@ Key areas include:
 * AWS WAF and Shield
 * Security monitoring and incident visibility
 
-# Security by Design
 
 Projects apply defence in depth across identity, networking, workloads, data, encryption, monitoring, and governance.
 
