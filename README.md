@@ -27,8 +27,6 @@ three complementary areas:
              Secure Intelligent Systems
 ```
 
-I approach cloud projects from an architecture-first perspective: understanding the business problem, identifying technical and non-functional requirements, evaluating design alternatives, and selecting AWS services based on security, reliability, performance, scalability, operational complexity, and cost.
-
 This portfolio documents that approach through practical AWS implementations and architecture case studies.
 
 # Certifications
