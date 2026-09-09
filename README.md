@@ -115,6 +115,35 @@ Key areas include:
 * AWS WAF and Shield
 * Security monitoring and incident visibility
 
+# Security by Design
+
+Projects apply defence in depth across identity, networking, workloads, data, encryption, monitoring, and governance.
+
+```text
+                 AWS Account
+                     │
+              Identity Boundary
+                     │
+                    IAM
+                     │
+               Network Boundary
+                     │
+                    VPC
+                     │
+              Workload Security
+                     │
+         ┌───────────┼───────────┐
+         │           │           │
+      Compute       Data      Application
+         │           │           │
+         └───────────┼───────────┘
+                     │
+             Encryption & KMS
+                     │
+             Logging & Auditing
+                     │
+          Detection & Monitoring
+```
 
 
 ## Generative AI & Agentic AI
@@ -179,35 +208,7 @@ Documentation
 
 
 
-# Security by Design
 
-Projects apply defence in depth across identity, networking, workloads, data, encryption, monitoring, and governance.
-
-```text
-                 AWS Account
-                     │
-              Identity Boundary
-                     │
-                    IAM
-                     │
-               Network Boundary
-                     │
-                    VPC
-                     │
-              Workload Security
-                     │
-         ┌───────────┼───────────┐
-         │           │           │
-      Compute       Data      Application
-         │           │           │
-         └───────────┼───────────┘
-                     │
-             Encryption & KMS
-                     │
-             Logging & Auditing
-                     │
-          Detection & Monitoring
-```
 
 ---
 
