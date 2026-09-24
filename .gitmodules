@@ -1,3 +1,6 @@
 [submodule "aws-customer-churn-mlops"]
 	path = aws-customer-churn-mlops
 	url = https://github.com/RoyIvia/aws-customer-churn-mlops.git
+[submodule "aws-erpnext-modernization"]
+	path = aws-erpnext-modernization
+	url = git@github.com:RoyIvia/aws-erpnext-modernization.git
