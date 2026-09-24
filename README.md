@@ -243,7 +243,7 @@ git submodule update --init --recursive
 
 Cloud Solutions Architect
 
-[royivia104@gmail.com](mailto:royivia104@gmail.com)
+[royiviah@gmail.com](mailto:royivia104@gmail.com)
 
 Nairobi, Kenya
 
